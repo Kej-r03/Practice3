@@ -9,5 +9,7 @@ Edit 2 in new3
 Edit 3 in new3
 Edit 4 in new3
 Edit 5 in new3
+Edit 7 in main
+Edit 8 in main
 Edit 6 in new3
 Edit 7 in new3
